@@ -2,10 +2,9 @@ from setuptools import setup
 
 readme = open("./README.md", "r")
 
-
 setup(
-    name='transferpy',
-    packages=['transferpy'],
+    name='transfershpy',
+    packages=['transfershpy'],
     version='1.0',
     description='Use transfer.sh in python',
     long_description=readme.read(),

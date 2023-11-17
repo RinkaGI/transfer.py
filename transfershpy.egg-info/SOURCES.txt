@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+transfershpy/__init__.py
+transfershpy/download.py
+transfershpy/upload.py
+transfershpy.egg-info/PKG-INFO
+transfershpy.egg-info/SOURCES.txt
+transfershpy.egg-info/dependency_links.txt
+transfershpy.egg-info/top_level.txt

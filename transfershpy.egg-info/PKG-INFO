@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: transfershpy
+Version: 1.0
+Summary: Use transfer.sh in python
+Home-page: https://github.com/RinkaGI/transfer.py
+Download-URL: https://github.com/RinkaGI/transfer.py/tarball/1.0
+Author: RinkaDev
+Author-email: rinkadevoficial@gmail.com
+License: MIT
+Keywords: transfer,upload,cloud
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 
 # transfer.py
 
